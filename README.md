@@ -1,4 +1,4 @@
-## PROYECT-SWICH-AND-FUNCTION.
+## PROYECT PYTHON.
 ### TEAM WORK.
 ### SIGNATURE: PROGRAMATION 1.
 ### MEMBERS:
@@ -9,7 +9,7 @@
 -  ### What programming languages ​​are used; libraries or third-party packages.:
  Python
 - ### What was your motivation?
-Learn more about functions and Switch through exercises in Java.
+Learn more about python.
 - ### Why did you build this project?
 To improve my programming logic in addition to applying what I learned in class.
 - ### You learned?
